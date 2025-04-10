@@ -2,7 +2,8 @@
 
 ## 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank02023)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mayank02023)
+
 
 ## 📈 GitHub Activity Graph
 
