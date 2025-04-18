@@ -6,7 +6,7 @@
 
 ## 📈 GitHub Activity Graph
 
-[![Mayank02023's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank02023&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Mayank02023's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank02023&theme=github-compact)](https://github.com/Mayank02023/github-readme-activity-graph)
 
 
 <!---
